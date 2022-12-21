@@ -1,0 +1,1 @@
+gcc hw3_3.c nrutil.c ludcmp.c lubksb.c -lm -o hw3_3 

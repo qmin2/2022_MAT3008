@@ -1,0 +1,1 @@
+gcc hw3_2.c nrutil.c ludcmp.c lubksb.c mprove.c -o hw3_2

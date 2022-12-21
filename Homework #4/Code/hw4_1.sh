@@ -1,0 +1,1 @@
+gcc hw4_1.c gasdev.c ran0.c nrutil.c ran1.c -lm -o hw4_1

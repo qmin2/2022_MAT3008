@@ -1,0 +1,1 @@
+gcc hw3_1.c gaussj.c nrutil.c ludcmp.c lubksb.c svdcmp.c pythag.c -lm -o hw3_1

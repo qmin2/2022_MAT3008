@@ -1,0 +1,1 @@
+gcc hw6.c gaussj.c nrutil.c -lm -o hw6

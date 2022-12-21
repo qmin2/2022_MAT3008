@@ -1,0 +1,1 @@
+gcc hw2_2.c bessj0.c zbrak.c nrutil.c rtsafe.c bessy0.c bessy1.c bessj1.c -lm -o hw2_2
